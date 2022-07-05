@@ -1,4 +1,4 @@
-#DESCRIPTION
+DESCRIPTION
 
 A simple implementation of the famous guessing game.
 
