@@ -10,5 +10,8 @@
     int analyze_input(char* input, char* code);
 	char *read_input();
 	int my_strlen(char *string);
+	char *my_strdup(char* str);
+	void my_memset(char *str, char c, int n);
+	int my_strcmp(char *s1, char *s2);
 
 #endif
